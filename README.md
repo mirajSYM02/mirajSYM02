@@ -1,4 +1,4 @@
-<p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216124688-c7dec0ce-a93e-48b1-84c3-b92af4122cbc.jpg" alt="mirajsym02" /> </p>
+<p align="center"> <img width=”200" height=”200" src="https://www.canva.com/design/DAFZWe3LCDw/_TdmyW8brnEbAqECUDjTjg/watch?utm_content=DAFZWe3LCDw&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="mirajsym02" /> </p>
 
 <h1 align="center">A passionate about Data Science, Data Analysis, Data Visualization</h1>
 
