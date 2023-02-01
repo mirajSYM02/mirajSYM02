@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/81813860/216124688-c7dec0ce-a93e-48b1-84c3-b92af4122cbc.jpg
 <h1 align="center">Hi 👋, I'm Miraj Ahmed</h1>
 <h3 align="center">A passionate about Data Science, Data Analysis, Data Visualization</h3>
 
