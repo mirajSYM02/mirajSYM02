@@ -2,6 +2,8 @@
 
 <h1 align="center">A passionate about Data Science, Data Analysis, Data Visualization</h1>
 
+<h2 align="center">Technical Skills</h2>
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 - 🔭 I’m currently working on **Analyzing FitBit data to answer "How Can a Wellness Technology Company Play It Smart?"**
