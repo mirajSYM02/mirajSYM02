@@ -3,8 +3,9 @@
 <h1 align="center">A passionate about Data Science, Data Analysis, Data Visualization</h1>
 
 <h2 align="center">Technical Skills</h2>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 
 
 - 🔭 I’m currently working on **Analyzing FitBit data to answer "How Can a Wellness Technology Company Play It Smart?"**
