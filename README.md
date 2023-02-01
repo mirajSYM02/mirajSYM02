@@ -1,8 +1,6 @@
+<p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216124688-c7dec0ce-a93e-48b1-84c3-b92af4122cbc.jpg" alt="mirajsym02" /> </p>
 
-<h1 align="center">Hi 👋, I'm Miraj Ahmed</h1>
 <h3 align="center">A passionate about Data Science, Data Analysis, Data Visualization</h3>
-
-<p align="left"> <img src="https://user-images.githubusercontent.com/81813860/216124688-c7dec0ce-a93e-48b1-84c3-b92af4122cbc.jpg" alt="mirajsym02" /> </p>
 
 - 🔭 I’m currently working on **Analyzing FitBit data to answer "How Can a Wellness Technology Company Play It Smart?"**
 
