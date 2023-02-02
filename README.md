@@ -1,10 +1,11 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
-<h1 align="center">A passionate about Data Science, Data Analysis, Data Visualization</h1>
+<h1 align="center">Data Analyst</h1>
 
 <h2 align="center">Technical Skills</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
 
