@@ -1,14 +1,22 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj</a> 👋
+Hi there, I'm <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj Ahmed</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Computer Science Graduate 🎓 Data Analyst 📊, Aspiring Data Scientist 🧠 , and Data Viz Engineer 🎨!
+I'm a Computer Science Graduate 🎓 
+</h2>
+
+
+<h2 align="center">
+Data Analyst 📊, Aspiring Data Scientist 🧠 , and Data Viz Engineer 🎨!
 </h2>
 
 </br>
+
+
+A Data Analyst with a passion for turning data into insights and an aspiration to become a Data Scientist by continuously expanding skills and knowledge in data science techniques and technologies.
 
 <h2 align = "center">Programming / Scripting Languages</h2>
 
