@@ -1,7 +1,7 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
 <h1 align="center">
-Hi there, this is <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj Ahmed</a> 👋
+Hi there! This is <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj Ahmed</a> 👋
 </h1>
 
 </br>
@@ -13,21 +13,20 @@ A Computer Science Graduate 🎓
 <h2 align="center">
 Data Analyst 📊 and Aspiring Data Scientist 🧠 
 </h2>
-
 </br>
 
 
 A Data Analyst with a passion for turning data into insights and an aspiration to become a Data Scientist by continuously expanding skills and knowledge in data science techniques and technologies.
-
 </br>
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407810-b326a082-b5a5-4856-a36b-96dced040751.png" alt="Miraj Ahmed | LinkedIn" width="25px"/></a>
+<a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407810-b326a082-b5a5-4856-a36b-96dced040751.png" alt="Miraj Ahmed | LinkedIn" width="35px"/></a>
 
-<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png" alt="Miraj Ahmed | Twitter" width="25px"/></a>
+<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png" alt="Miraj Ahmed | Twitter" width="35px"/></a>
 
-<a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://user-images.githubusercontent.com/81813860/216408370-063ae9a2-e2e9-4d57-9bf1-816b55c4aa00.png" alt="Miraj Ahmed | Medium" width="25px"/></a>
+<a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://user-images.githubusercontent.com/81813860/216408370-063ae9a2-e2e9-4d57-9bf1-816b55c4aa00.png" alt="Miraj Ahmed | Medium" width="35px"/></a>
+</br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -78,6 +77,7 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 </br>
 
@@ -126,6 +126,9 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 </br>
 
