@@ -1,8 +1,8 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj Ahmed</a> 👋
-</h3>
+</h1>
 
 </br>
 <h2 align="center">
@@ -20,11 +20,12 @@ Data Analyst 📊 and Aspiring Data Scientist 🧠
 A Data Analyst with a passion for turning data into insights and an aspiration to become a Data Scientist by continuously expanding skills and knowledge in data science techniques and technologies.
 
 </br>
-https://medium.com/@mirajahmed.writes
 
 <a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
+<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
+<a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 
 </br>
 
