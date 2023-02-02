@@ -11,7 +11,7 @@ A Computer Science Graduate 🎓
 </br>
 
 <h2 align="center">
-Data Analyst 📊 and Aspiring Data Scientist 🧠 
+Data Analyst 📊 | Aspiring Data Scientist 🧠 
 </h2>
 </br>
 
