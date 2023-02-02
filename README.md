@@ -21,11 +21,11 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 </br>
 
-<a href="https://www.linkedin.com/in/mirajsym/"><img align="center" src="https://user-images.githubusercontent.com/81813860/216407810-b326a082-b5a5-4856-a36b-96dced040751.png" alt="Miraj Ahmed | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407810-b326a082-b5a5-4856-a36b-96dced040751.png" alt="Miraj Ahmed | LinkedIn" width="40px"/></a>
 
-<a href="https://twitter.com/sym__ahmed"><img align="center" src="https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png)" alt="Miraj Ahmed | Twitter" width="40px"/></a>
+<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png" alt="Miraj Ahmed | Twitter" width="40px"/></a>
 
-<a href="https://medium.com/@mirajahmed.writes"><img align="center" src="https://user-images.githubusercontent.com/81813860/216408370-063ae9a2-e2e9-4d57-9bf1-816b55c4aa00.png" alt="Miraj Ahmed | Medium" width="40px"/></a>
+<a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://user-images.githubusercontent.com/81813860/216408370-063ae9a2-e2e9-4d57-9bf1-816b55c4aa00.png" alt="Miraj Ahmed | Medium" width="40px"/></a>
 
 </br>
 </br>
@@ -56,7 +56,6 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 </br>
 </br>
 
-![twitter](https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
