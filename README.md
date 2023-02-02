@@ -30,8 +30,6 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-
-</br>
 </br>
 
 ## 🔭 I'm currently working on
@@ -43,7 +41,6 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 - Hackerank challenge (sometimes)
 
 </br>
-</br>
 
 ## 🌱 I'm currently learning
 
@@ -51,7 +48,6 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 - Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 - Natural Language Processing Specialization by Deeplearning.ai on Coursera
 
-</br>
 </br>
 
 
