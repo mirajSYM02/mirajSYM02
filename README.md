@@ -1,9 +1,10 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
+</br>
 <h1 align="center">Data Analyst</h1>
 </br>
 
-<h2>Programming Language</h2>
+<h2 align = "center">Programming Language</h2>
 </br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,13 +16,14 @@
 
 </br>
 
-<h2> Data Science / ML / DL</h2>
+<h2 align = "center"> Data Science / ML / DL</h2>
 </br>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 </br>
 
 <h2 align="center">Development Frameworks</h2>
