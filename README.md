@@ -1,7 +1,7 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
 </br>
-<h2>
+<h2 align = "center">
 <a href="https://mirajahmed.works/" target="_blank">Click here to view my Portfolio</a>
 </h2>
 
