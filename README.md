@@ -21,6 +21,8 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 </br>
 
+### 🤝 Connect with me:
+
 <a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407810-b326a082-b5a5-4856-a36b-96dced040751.png" alt="Miraj Ahmed | LinkedIn" width="60px"/></a>
 
 <a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png" alt="Miraj Ahmed | Twitter" width="60px"/></a>
@@ -28,6 +30,10 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 <a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://user-images.githubusercontent.com/81813860/216408370-063ae9a2-e2e9-4d57-9bf1-816b55c4aa00.png" alt="Miraj Ahmed | Medium" width="60px"/></a>
 
 </br>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
 </br>
 </br>
 
@@ -48,12 +54,12 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 - Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 - Natural Language Processing Specialization by Deeplearning.ai on Coursera
 
+</br>
+</br>
+
 
 <h2 align = "center">Programming / Scripting Languages</h2>
 
-
-</br>
-</br>
 </br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
