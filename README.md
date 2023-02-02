@@ -23,7 +23,7 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 <a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://user-images.githubusercontent.com/81813860/216314988-7c6bd7ab-c42c-4c4b-a271-53b24dd1edf8.png" alt="Miraj Ahmed | LinkedIn" width="21px"/></a>
 
-<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216314839-e4f4a24e-5fff-4b6b-8e72-81ec3d9911d6.png" alt="Miraj Ahmed | Twitter" width="21px"/></a>
+<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216315250-a3193bc5-1791-47a5-8c4f-1b1afef88ce5.png" alt="Miraj Ahmed | Twitter" width="21px"/></a>
 
 <a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://user-images.githubusercontent.com/81813860/216314672-7b15de11-0bb2-477c-8665-8053ba87c696.png" alt="Miraj Ahmed | Medium" width="21px"/></a>
 
