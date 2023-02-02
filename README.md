@@ -4,19 +4,22 @@
 Hi there, I'm <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj Ahmed</a> 👋
 </h3>
 
+</br>
 <h2 align="center">
-I'm a Computer Science Graduate 🎓 
+A Computer Science Graduate 🎓 
 </h2>
-
+</br>
 
 <h2 align="center">
-Data Analyst 📊, Aspiring Data Scientist 🧠 , and Data Viz Engineer 🎨!
+Data Analyst 📊 and Aspiring Data Scientist 🧠 
 </h2>
 
 </br>
 
 
 A Data Analyst with a passion for turning data into insights and an aspiration to become a Data Scientist by continuously expanding skills and knowledge in data science techniques and technologies.
+
+</br>
 
 <h2 align = "center">Programming / Scripting Languages</h2>
 
