@@ -1,8 +1,11 @@
 <p align="center"> <img width=”200" height=”200" src="https://user-images.githubusercontent.com/81813860/216132860-0b038efd-b751-48ab-8349-7061873fa6a6.gif" alt="mirajsym02" /> </p>
 
-</br>
-<h2 align = "center">
-<a href="https://mirajahmed.works/" target="_blank">Click here to view my Portfolio</a>
+<h3 align="center">
+Hi there, I'm <a href="https://mirajahmed.works/" target="_blank" rel="noreferrer">Miraj</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Computer Science Graduate 🎓 Data Analyst 📊, Aspiring Data Scientist 🧠 , and Data Viz Engineer 🎨!
 </h2>
 
 </br>
