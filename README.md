@@ -2,8 +2,8 @@
 
 </br>
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-: mirajahmed.works
+<a href="https://mirajahmed.works/" target="_blank">Portfolio</a>
+
 
 </br>
 
