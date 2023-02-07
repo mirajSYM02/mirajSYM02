@@ -49,10 +49,15 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 - Natural Language Processing Specialization by Deeplearning.ai on Coursera
 
 </br>
+
 ## The playlist I am listening 
 
-![Spotify](https://user-images.githubusercontent.com/81813860/217212893-03eb6326-c482-43b0-a460-8418b2a2bc10.jpg)
+</br>
+<p align= center>
 
+  ![Spotify](https://user-images.githubusercontent.com/81813860/217212893-03eb6326-c482-43b0-a460-8418b2a2bc10.jpg)
+
+</p>
 </br>
 
 
