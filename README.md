@@ -54,6 +54,11 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 </br>
 <p align= center>
+  
+</br>
+  
+  <a href="https://open.spotify.com/playlist/7dEPjQlm2x73iQAHkR7mAX?si=827d516323f64755" target="_blank" rel="noreferrer">Miraj Ahmed</a>
+  
 
   ![Spotify](https://user-images.githubusercontent.com/81813860/217212893-03eb6326-c482-43b0-a460-8418b2a2bc10.jpg)
 
