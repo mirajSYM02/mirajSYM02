@@ -50,7 +50,7 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 </br>
 
-## The playlist I am listening 
+## 🎧 The playlist I am listening 
 
 </br>
 
