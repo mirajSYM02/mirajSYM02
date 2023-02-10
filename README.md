@@ -36,7 +36,7 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 - One day one exploratory data analysis challenge. 
 - Database Capstone Project by Meta on Coursera platform
-- Creating a Vertual Private Cloud using AWS
+- Creating a Virtual Private Cloud using AWS
 - Practising to write blog on medium
 - Hackerank challenge (sometimes)
 
