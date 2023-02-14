@@ -161,7 +161,7 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 
 <hr>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-xlw3-mirajsym02.vercel.app/api?username=mirajsym02&show_icons=true&hide_border=true"" alt="mirajsym02" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats-xlw3-mirajsym02.vercel.app/api?username=mirajSYM02&show_icons=true&hide_border=true"" alt="mirajsym02" /></p>
 <hr>
 <p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirajsym02&" alt="mirajsym02" /></p>
 <hr>
