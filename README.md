@@ -20,7 +20,7 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 </br>
 
 ### 🤝 Connect with me:
--
+
 
  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mirajahmed.works/)
