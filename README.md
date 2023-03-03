@@ -20,27 +20,35 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 </br>
 
 ### 🤝 Connect with me:
+-
 
-<div align = "center'>
  
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mirajahmed.works/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirajsym/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sym__ahmed)
 
-</div>
+
 
 </br>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me: mirajahmedsymanto@gmail.com
 
 </br>
+
+### 🏆 My Recent Achievements
+
+
+- Completed Data Analysis with Python : Zero to Pandas by Jovian
+
+- Got Golden Badge on Hackerank SQL Challenges
+
+<br>
 
 ## 🔭 I'm currently working on
 
 - One day one exploratory data analysis challenge. 
 - Database Capstone Project by Meta on Coursera platform
-- Creating a Virtual Private Cloud using AWS
-- Practising to write blog on medium
+- Practising to write blog on medium (Hoping to start soon!)
 - Hackerank challenge (sometimes)
 
 </br>
@@ -48,7 +56,6 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 ## 🌱 I'm currently learning
 
 - AWS Cloud Solutions Architect Professional Certificate
-- Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
 - Natural Language Processing Specialization by Deeplearning.ai on Coursera
 
 </br>
