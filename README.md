@@ -20,10 +20,11 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 </br>
 
 ### 🤝 Connect with me:
-
+<center>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mirajahmed.works/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirajsym/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sym__ahmed)
+</center>
 </br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
