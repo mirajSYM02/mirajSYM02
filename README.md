@@ -21,11 +21,9 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/mirajsym/"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407810-b326a082-b5a5-4856-a36b-96dced040751.png" alt="Miraj Ahmed | LinkedIn" width="35px"/></a>
-
-<a href="https://twitter.com/sym__ahmed"><img align="left" src="https://user-images.githubusercontent.com/81813860/216407986-668172f1-d084-4fe5-8dda-27054d721e3a.png" alt="Miraj Ahmed | Twitter" width="35px"/></a>
-
-<a href="https://medium.com/@mirajahmed.writes"><img align="left" src="https://user-images.githubusercontent.com/81813860/216408370-063ae9a2-e2e9-4d57-9bf1-816b55c4aa00.png" alt="Miraj Ahmed | Medium" width="35px"/></a>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mirajahmed.works/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirajsym/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sym__ahmed)
 </br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
