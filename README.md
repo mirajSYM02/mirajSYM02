@@ -31,7 +31,9 @@ A Data Analyst with a passion for turning data into insights and an aspiration t
 
 </br>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me: mirajahmedsymanto@gmail.com
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me: 
+mirajahmedsymanto@gmail.com
 
 </br>
 
